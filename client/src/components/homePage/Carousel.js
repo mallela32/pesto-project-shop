@@ -35,13 +35,14 @@ const Carousel = () => {
             className='carousel-item active'
             style={{
               backgroundImage:
-                'url("https://source.unsplash.com/RCAhiGJsUUE/1920x1080")',
+                'url("https://static.vecteezy.com/system/resources/previews/000/251/809/original/vector-diwali-festival-offer-big-sale-background-template-design.jpg")',
             }}
           >
+            
             <div className='carousel-caption'>
-              <h5>airShop Next</h5>
+              <h5>Diwali Sale</h5>
               <p>
-                The Next Shop, but Online
+                50% Discount
               </p>
             </div>
           </div>
@@ -49,13 +50,13 @@ const Carousel = () => {
             className='carousel-item'
             style={{
               backgroundImage:
-                'url("https://source.unsplash.com/wfh8dDlNFOk/1920x1080")',
+                'url("https://cdn.shopify.com/s/files/1/0057/8938/4802/articles/blog-2_1.jpg?v=1665561814&width=1900")',
             }}
           >
             <div className='carousel-caption'>
-              <h5>React Frontend</h5>
+              <h5>Boat Electronics</h5>
               <p>
-                Built on reactjs to make it perfect
+                Have Extra Bass
               </p>
             </div>
           </div>
@@ -63,13 +64,13 @@ const Carousel = () => {
             className='carousel-item'
             style={{
               backgroundImage:
-                'url("https://source.unsplash.com/lHGeqh3XhRY/1920x1080")',
+                'url("https://cdn.grabon.in/gograbon/images/web-images/uploads/1621488513434/today-electronics-offers.jpg")',
             }}
           >
             <div className='carousel-caption'>
-              <h5>Express</h5>
+              <h5>Offer on Electronics</h5>
               <p>
-                MERN stacked at its best
+                Best Offer on Electronics
               </p>
             </div>
           </div>
